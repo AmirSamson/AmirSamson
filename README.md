@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amir Samson</h1>
-<h3 align="center">QC inspector at Alpha Cloud🌟.</h3>
+<h3 align="center">Lead QA Tester at AlphaCo.Cloud🌟.</h3>
 
 <br>
 
