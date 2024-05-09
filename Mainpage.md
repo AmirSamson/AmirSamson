@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amir (Henry) Samson</h1>
-<h3 align="center">QA Enginner at ICE🌟.</h3>
+<h3 align="center">QA Enginner at ICE GLOBAL🌟.</h3>
 
 <br>
 
@@ -13,6 +13,7 @@
 - 🌱 I’m currently learning Python and ML while utilizing TypeScript and JS for Automation tests both on Web and Backend services.
 
 - 📫 How to reach me **amirhsamson@gmail.com**
+- My <a href="https://amirsamson.github.io/">website<a/> (which I created using github.io). You can learn more about me on that webpage.
 
 - ⚡ Fun fact :- Food, Calsithenics, Books, Guitar and Music🎵 are the reasons to live.
 
