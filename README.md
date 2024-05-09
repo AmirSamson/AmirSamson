@@ -15,7 +15,8 @@
 - 📫 How to reach me **amirhsamson@gmail.com**
 - My <a href="https://amirsamson.github.io/">website<a/> (which I created using github.io). You can learn more about me on that webpage.
 
-- ⚡ Fun fact :- Food, Calsithenics, Books, Guitar and Music🎵 are the reasons to live.
+- ⚡ Fun fact :
+- Food, Calsithenics, Books, Guitar and Music🎵 are the reasons to live.
 
 #
 
