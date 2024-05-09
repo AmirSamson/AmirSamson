@@ -10,7 +10,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Python and ML while utilizing TypeScript and JS for Automation tests both on Web and Backend services.
+- 🌱 I’m currently learning Python and ML while utilizing TypeScript for Automation tests both on Web and Backend services.
 
 - 📫 How to reach me **amirhsamson@gmail.com**
 - My <a href="https://amirsamson.github.io/">website<a/> (which I created using github.io). You can learn more about me on that webpage.
