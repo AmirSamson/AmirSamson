@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Python and ML while utilizing TypeScript for Automation tests both on Web and Backend services.
 
 - 📫 How to reach me **amirhsamson@gmail.com**
-- My <a href="https://amirsamson.github.io/">website<a/> (which I created using github.io). You can learn more about me on that webpage.
+- My <a href="https://amirsamson.github.io/">website<a/> (which I created myself using HTML on github.io). You can learn more about me on that webpage.
 
 - ⚡ Fun fact :
 Food, Calsithenics, Books, Guitar and Music🎵 are the reasons to live.
