@@ -5,7 +5,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 🌱 I’m utilizing `TypeScript` for Automation tests (`Playwright` and `K6`) both on Web and Backend services. Currently learning and using `POM` and `OOP` in order to create more comprehensive Test scenarios. And using Postman (Manual and Automation) for API tests (REST APIs), Apollo Playground and Altair for GraphQL APIs. 
+- 🌱 I’m utilizing `TypeScript` for Automation tests (`Playwright` and `K6`) both on Web and Backend services. Currently learning and using `POM` and `OOP` in order to create more comprehensive Test scenarios. And using `Postman` (Manual and Automation) for API tests (`REST APIs`), Apollo Playground and Altair for `GraphQL` APIs. 
 I am also learning Python for Computer Science and Machine Learning purposes.
 
 - 📫 How to reach me **amirhsamson@gmail.com**
